@@ -1,1 +1,6 @@
 # Hospital-Bed-Availability-Management-System
+This is Hospital Bed Availability & Management System developed by using Spring Mvc, Jsp, html, css, bootstrap.
+         In this project we have developed because in the covid-19 whole world in the pandemic crisis. Patient visit the hospital for admit but there all beds are allocated no beds are available so patient have to visit to next hospital there also same problem. Because of this problem patients life is in danger to solve the problem we have developed this system.
+ 
+         In this project we have developed centralized system where hospital can register to our system and fill all the required details like total no. of rooms in the hospital by type wise ex.ICU,NON-ICU,General,etc. Then after login he can register patient to his hospital and allocate room for the patient and also can discharge patient and can generate bill of the patient automatically.
+         After giving discharge to the patient no. of rooms are fluctuated and enduser can search hospital by entering city name and get all hospital list in the city registered to our system. After getting list end user can see no. of beds available in particular hospital by clicking on link next to the hospital. 
